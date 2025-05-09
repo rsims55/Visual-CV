@@ -1,0 +1,3044 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{batesPeerReviewingCultivating2023}{article}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=e2a0977bbe2b652dc172c0032a280110}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c58c11f52283f63a82b1ef751b96e2b3}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e9696a94b12fd32a1c670bb39f165e1b}{%
+           family={McGill},
+           familyi={M\bibinitperiod},
+           given={Monica\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{02fa4312ae4fda3783a6a8e774354647}
+      \strng{fullhash}{8d797e1dd7940e6971d8c30469c41f9f}
+      \strng{bibnamehash}{8d797e1dd7940e6971d8c30469c41f9f}
+      \strng{authorbibnamehash}{8d797e1dd7940e6971d8c30469c41f9f}
+      \strng{authornamehash}{02fa4312ae4fda3783a6a8e774354647}
+      \strng{authorfullhash}{8d797e1dd7940e6971d8c30469c41f9f}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This workshop aims to help individuals expand their engagement with the computer science education research community as inclusive and equitable peer reviewers. Peer reviewers are liaisons between a journal or funding organization and members of their professional community, and thus are crucial for incorporating equity as part of the culture of computer science and engineering education. Prior research has shown that being a peer reviewer has benefits for the reviewer as well as the journal. Peer reviewing journal articles and proposals is a good way to stay current with what is happening in the field and acquire insights that can improve one's own writing and research. Peer reviewing is also a way to promote equity in our community through inclusive practices. Inclusive reviewing practices provide respectful, constructive feedback to authors on aspects of their manuscripts and proposals such as bias-free language, treatment of vulnerable populations, and positionality of authors and reviewers. This workshop (supported by NSF grants EEC-2037807, 2037788, and 2037797) prompts participants to consider their own positionality as reviewers and scholars. From this perspective, they then consider important aspects of an article or proposal such as whether underserved communities are impacted by the work, if participant identities are referred to appropriately, if authors of color working in this space are being cited appropriately, and if authors are being accountable to do the challenging work of addressing issues related to diversity and equity.}
+      \field{day}{6}
+      \field{isbn}{978-1-4503-9433-8}
+      \field{journaltitle}{Proceedings of the 54th {{ACM Technical Symposium}} on {{Computer Science Education V}}. 2}
+      \field{month}{3}
+      \field{series}{{{SIGCSE}} 2023}
+      \field{shorttitle}{Peer {{Reviewing}}}
+      \field{title}{Peer {{Reviewing}}: {{Cultivating}} an {{Equitable}} and {{Inclusive Scholarly Community}}}
+      \field{urlday}{15}
+      \field{urlmonth}{3}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1183}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1145/3545947.3569628
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1145/3545947.3569628
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1145/3545947.3569628
+      \endverb
+      \keyw{broadening participation,building community,computing education research,diversity and equity in computing research,peer review}
+    \endentry
+    \entry{batesBoard194CommunityDriven2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=54e8c0a6938f20525d3008391d5f0a97}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Rebecca\bibnamedelima A},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=c58c11f52283f63a82b1ef751b96e2b3}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=404f0653f26c0c1e06be5deebd214493}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76376fc44c407e7cdf80fd317d7beecd}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=011502e146601769990c9f95ecc220f2}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e8eccac8645c0eafe7e3ff458a9a3cb}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{b904ab9c93a8ac533917737f95656662}
+      \strng{fullhash}{235061f40ceea6684cfe61d76bd0a1c5}
+      \strng{bibnamehash}{235061f40ceea6684cfe61d76bd0a1c5}
+      \strng{authorbibnamehash}{235061f40ceea6684cfe61d76bd0a1c5}
+      \strng{authornamehash}{b904ab9c93a8ac533917737f95656662}
+      \strng{authorfullhash}{235061f40ceea6684cfe61d76bd0a1c5}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Peer review of grant proposals is critical to the National Science Foundation (NSF) funding process for STEM disciplinary and education research. Despite this, scholars receive little training in effective and constructive review of proposals beyond definitions of review criteria and an overview of strategies to avoid bias and communicate clearly. Senior researchers often find that their reviewing skills improve and develop over time, but variations in reviewer starting points can have a negative impact on the value of reviews for their intended audiences of program officers, who make funding recommendations, and principal investigators, who drive the research or want to improve their proposals. Building on the journal review component of the Engineering Education Research Peer Review Training (EER PERT) project, which is designed to develop EER scholars’ peer review skills through mentored reviewing experiences, this paper describes a program designed to provide professional development for proposal reviewing and provides initial evaluation results.}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2023 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Board 194: {{A Community-Driven Process}} for {{Developing NSF Review Panelists}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\EK5YLXNR\\Bates and University - Board 194 A Community-Driven Process for Developi.pdf
+      \endverb
+    \endentry
+    \entry{bensonPeerReviewingCultivating2022}{unpublished}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=c58c11f52283f63a82b1ef751b96e2b3}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a0977bbe2b652dc172c0032a280110}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=88c48a37daea36aecf0d083470b53d07}{%
+           family={Kemnitzer},
+           familyi={K\bibinitperiod},
+           given={Sue},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76376fc44c407e7cdf80fd317d7beecd}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=011502e146601769990c9f95ecc220f2}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=404f0653f26c0c1e06be5deebd214493}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=1e8eccac8645c0eafe7e3ff458a9a3cb}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2e6e382ae62d3ebbcc7dac1e2b522a61}
+      \strng{fullhash}{9d93ea430d2cc917315761347359640e}
+      \strng{bibnamehash}{9d93ea430d2cc917315761347359640e}
+      \strng{authorbibnamehash}{9d93ea430d2cc917315761347359640e}
+      \strng{authornamehash}{2e6e382ae62d3ebbcc7dac1e2b522a61}
+      \strng{authorfullhash}{9d93ea430d2cc917315761347359640e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Workshop}
+      \field{month}{7}
+      \field{note}{American {{Society}} for {{Engineering Education Conference}}}
+      \field{title}{Peer {{Reviewing}}: {{Cultivating}} an {{Equitable}} and {{Inclusive Scholarly Community}}}
+      \field{venue}{{Minneapolis, MN}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{burgessRescuingReefMonitoring2015}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=df5cc8a0de3fd0152ce1a1978504c321}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Taylor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2e969d6f30c99f6c09619136d48f206}
+      \strng{fullhash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{bibnamehash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{authorbibnamehash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{authornamehash}{b2e969d6f30c99f6c09619136d48f206}
+      \strng{authorfullhash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \field{extraname}{1}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Rescuing the Reef: {{Monitoring}} the Impacts of Macroalgal Competition and Grazing on Coral Transplants}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{burgessRescuingReefMonitoring2015a}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=df5cc8a0de3fd0152ce1a1978504c321}{%
+           family={Burgess},
+           familyi={B\bibinitperiod},
+           given={Taylor},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b2e969d6f30c99f6c09619136d48f206}
+      \strng{fullhash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{bibnamehash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{authorbibnamehash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \strng{authornamehash}{b2e969d6f30c99f6c09619136d48f206}
+      \strng{authorfullhash}{fd3b6798f8cc4734b03a615ad37acde5}
+      \field{extraname}{2}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{3}
+      \field{note}{Southeastern {{Ecology}} and {{Evolution Conference}}}
+      \field{title}{Rescuing the Reef: {{Monitoring}} the Impacts of Macroalgal Competition and Grazing on Coral Transplants}
+      \field{venue}{{Athens, GA}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{childressSomethingVeryFishy2021a}{unpublished}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef8f38fa357080871c376797d31a801f}{%
+           family={Prosser},
+           familyi={P\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f667586937cf8d8fe2b7a130028e57a1}
+      \strng{fullhash}{3dd39e6ec49ef0f39b233051bfe9d7bf}
+      \strng{bibnamehash}{3dd39e6ec49ef0f39b233051bfe9d7bf}
+      \strng{authorbibnamehash}{3dd39e6ec49ef0f39b233051bfe9d7bf}
+      \strng{authornamehash}{f667586937cf8d8fe2b7a130028e57a1}
+      \strng{authorfullhash}{3dd39e6ec49ef0f39b233051bfe9d7bf}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{11}
+      \field{note}{South {{Carolina Marine Educators Association Annual Conference}}}
+      \field{title}{Something {{Very Fishy}}: {{A}} Musical Theatre {{STEAM}} Program for Elementary Schools}
+      \field{venue}{{Charleston, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{childressSomethingVeryFishy2021}{unpublished}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fb4d01148dfb737cfe73c75b290f456}{%
+           family={Tallapragada},
+           familyi={T\bibinitperiod},
+           given={Meghnaa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef8f38fa357080871c376797d31a801f}{%
+           family={Prosser},
+           familyi={P\bibinitperiod},
+           given={Kathy},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{20e60f20a450b4f32b312593493d5a4a}
+      \strng{fullhash}{2aa92b83d95d2c206d5179ed1c918684}
+      \strng{bibnamehash}{2aa92b83d95d2c206d5179ed1c918684}
+      \strng{authorbibnamehash}{2aa92b83d95d2c206d5179ed1c918684}
+      \strng{authornamehash}{20e60f20a450b4f32b312593493d5a4a}
+      \strng{authorfullhash}{2aa92b83d95d2c206d5179ed1c918684}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{7}
+      \field{note}{National {{Marine Educator}}'s {{Association Annual Conference}}}
+      \field{title}{Something {{Very Fishy}}: {{A STEAM Approach}} to {{Teaching Climate}} and {{Ocean Literacy}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{englishIntroductionNationalBrick2019}{unpublished}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=b3ec59094e935f63d17bc27fd42eed7f}{%
+           family={English},
+           familyi={E\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5ebebccc9822e97886131586a5ece512}{%
+           family={Shealy},
+           familyi={S\bibinitperiod},
+           given={Katherine},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{e50a49f5284133883c58a030e2e7e494}
+      \strng{fullhash}{5333a481d2e5479758862d0692f292ca}
+      \strng{bibnamehash}{5333a481d2e5479758862d0692f292ca}
+      \strng{authorbibnamehash}{5333a481d2e5479758862d0692f292ca}
+      \strng{authornamehash}{e50a49f5284133883c58a030e2e7e494}
+      \strng{authorfullhash}{5333a481d2e5479758862d0692f292ca}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Webinar}
+      \field{month}{12}
+      \field{note}{National {{Brick Research Center Webinar Series}}}
+      \field{title}{Introduction to the {{National Brick Research Center Mobile Application}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{fradyQualitativeExplorationAssetsBased2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3e4c083859ebe50a5b56a4602ab2099a}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima K.},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{b85500a5a44aaf132b69af63b4c2d037}
+      \strng{fullhash}{b85500a5a44aaf132b69af63b4c2d037}
+      \strng{bibnamehash}{b85500a5a44aaf132b69af63b4c2d037}
+      \strng{authorbibnamehash}{b85500a5a44aaf132b69af63b4c2d037}
+      \strng{authornamehash}{b85500a5a44aaf132b69af63b4c2d037}
+      \strng{authorfullhash}{b85500a5a44aaf132b69af63b4c2d037}
+      \field{extraname}{1}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Community colleges with their open-access mission, broad accessibility, and lower higher education costs play a vital role in educating and awarding advanced credentials to future engineers, scientists, and technicians. Transfer pathways to engineering are confusing, vague, and complex. Further, many transfer students, who tend to be more diverse, are viewed through a deficit-based perspective where the focus has been on barriers instead of viewing their abilities, skills, talents, and advantages through an asset-based lens. Thus, the purpose of this work-in-progress qualitative study, guided by Laanan's theory of transfer student capital, is to investigate expert perspectives of assets, factors, and strategies enabling access for two-year college students to engineering transfer pathways. 11 experts, influencers, and programs across the United States participated in semi-structured interviews. Inductive analysis of the interviews resulted in 13 categories that formed four major themes: assets, factors, strategies, and challenges. These results build on prior transfer student research through a focus on practical strategies and tactics used to build transfer student capital for engineering transfer students. Most importantly, these results also highlight a previously missing asset-based perspective of transfer students to shift the lens to strengths-based views and conversations about transfer students.}
+      \field{eventtitle}{2023 {{IEEE Frontiers}} in {{Education Conference}} ({{FIE}})}
+      \field{issn}{2377-634X}
+      \field{journaltitle}{2023 {{IEEE Frontiers}} in {{Education Conference}} ({{FIE}})}
+      \field{month}{10}
+      \field{title}{A {{Qualitative Exploration}} of an {{Assets-Based Approach}} to {{Building Engineering Transfer Student Capital}}}
+      \field{urlday}{26}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 5}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1109/FIE58773.2023.10343352
+      \endverb
+      \verb{file}
+      \verb C:\Users\randi\Zotero\storage\7DI56KZ8\10343352.html
+      \endverb
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/10343352
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/10343352
+      \endverb
+      \keyw{Buildings,Costs,Education,Interviews,Lenses,Oral communication,pathways,qualitative,transfer students}
+    \endentry
+    \entry{fradyBoard368Regional2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cbb1213f20590de1a0770b977cb358fa}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima Kelly},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{fullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{bibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorbibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authornamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorfullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \field{extraname}{2}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2023 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Board 368: {{Regional Assets}}, {{Factors}}, and {{Strategies Supporting Engineering Pre-Transfer Pathways}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\WV6FQUGG\\Frady et al. - Board 368 Regional Assets, Factors, and Strategie.pdf
+      \endverb
+    \endentry
+    \entry{fradyUseTransferStudent2023}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cbb1213f20590de1a0770b977cb358fa}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima Kelly},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{fullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{bibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorbibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authornamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorfullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \field{extraname}{3}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2023 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Use of {{Transfer Student Capital}} in {{Engineering}} and {{STEM Education}}: {{A Systematic Literature Review}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\KFWSXTDD\\Frady et al. - Use of Transfer Student Capital in Engineering and.pdf
+      \endverb
+    \endentry
+    \entry{fradyMappingImpactDigital2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cbb1213f20590de1a0770b977cb358fa}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima Kelly},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Marietta, Georgia}%
+      }
+      \strng{namehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{fullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{bibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorbibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authornamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorfullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \field{extraname}{4}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{2024 {{South East Section Meeting}}}
+      \field{month}{3}
+      \field{title}{Mapping and {{Impact}} of {{Digital Learning Tools Designed}} to {{Support Engineering Pre-Transfer Students}}}
+      \field{urlday}{26}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{14}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.18260/1-2--45542
+      \endverb
+      \verb{file}
+      \verb C:\Users\randi\Zotero\storage\FBMY32B8\Frady and Sims - 2024 - Mapping and Impact of Digital Learning Tools Desig.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://peer.asee.org/mapping-and-impact-of-digital-learning-tools-designed-to-support-engineering-pre-transfer-students
+      \endverb
+      \verb{url}
+      \verb https://peer.asee.org/mapping-and-impact-of-digital-learning-tools-designed-to-support-engineering-pre-transfer-students
+      \endverb
+    \endentry
+    \entry{frady_board_2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=cbb1213f20590de1a0770b977cb358fa}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima Kelly},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Portland, Oregon}%
+      }
+      \strng{namehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{fullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{bibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorbibnamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authornamehash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \strng{authorfullhash}{39466eb0e55a48ced2ef43b22d627c2c}
+      \field{extraname}{5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{23}
+      \field{eventtitle}{2024 {ASEE} Annual Conference \& Exposition}
+      \field{month}{6}
+      \field{shorttitle}{Board 402}
+      \field{title}{Board 402: The First Two Years: An Overview of Contributions of the {NSF} {CAREER}: Valuing Education and Career Transition Opportunities Raising Student Success Project}
+      \field{urlday}{6}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.18260/1-2--46990
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/randisims/Zotero/storage/F65DKCGG/Frady and Sims - 2024 - Board 402 The First Two Years An Overview of Contributions of the NSF CAREER Valuing Education an.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://peer.asee.org/board-402-the-first-two-years-an-overview-of-contributions-of-the-nsf-career-valuing-education-and-career-transition-opportunities-raising-student-success-project
+      \endverb
+      \verb{url}
+      \verb https://peer.asee.org/board-402-the-first-two-years-an-overview-of-contributions-of-the-nsf-career-valuing-education-and-career-transition-opportunities-raising-student-success-project
+      \endverb
+    \endentry
+    \entry{frady_quantitative_2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=cbb1213f20590de1a0770b977cb358fa}{%
+           family={Frady},
+           familyi={F\bibinitperiod},
+           given={Kristin\bibnamedelima Kelly},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=b9187ed61d8c311fe548d4516c409f25}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Christy\bibnamedelima Jenkins},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Portland, Oregon}%
+      }
+      \strng{namehash}{ce555f27cd48a05c1f2630886632785a}
+      \strng{fullhash}{dd360db609969f3a4995028bbf6c04d5}
+      \strng{bibnamehash}{dd360db609969f3a4995028bbf6c04d5}
+      \strng{authorbibnamehash}{dd360db609969f3a4995028bbf6c04d5}
+      \strng{authornamehash}{ce555f27cd48a05c1f2630886632785a}
+      \strng{authorfullhash}{dd360db609969f3a4995028bbf6c04d5}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{23}
+      \field{eventtitle}{2024 {ASEE} Annual Conference \& Exposition}
+      \field{month}{6}
+      \field{title}{A Quantitative Exploration of Geographic and Demographic Variance Transfer-Student Capital Assets and Support for Pre-Transfer Engineering Students}
+      \field{urlday}{6}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Full Text PDF:/home/randisims/Zotero/storage/SZCCB2XC/Frady et al. - 2024 - A Quantitative Exploration of Geographic and Demographic Variance Transfer-Student Capital Assets an.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://peer.asee.org/a-quantitative-exploration-of-geographic-and-demographic-variance-transfer-student-capital-assets-and-support-for-pre-transfer-engineering-students
+      \endverb
+      \verb{url}
+      \verb https://peer.asee.org/a-quantitative-exploration-of-geographic-and-demographic-variance-transfer-student-capital-assets-and-support-for-pre-transfer-engineering-students
+      \endverb
+    \endentry
+    \entry{gerayInfluenceBicolorDamselfish2022}{unpublished}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=748849b4aa58de34787f73903b443ca6}{%
+           family={Britt},
+           familyi={B\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b1d21cb91668a1f7080f8680f561a584}
+      \strng{fullhash}{6e85da169c6a75225db675dc5bbf6005}
+      \strng{bibnamehash}{6e85da169c6a75225db675dc5bbf6005}
+      \strng{authorbibnamehash}{6e85da169c6a75225db675dc5bbf6005}
+      \strng{authornamehash}{b1d21cb91668a1f7080f8680f561a584}
+      \strng{authorfullhash}{6e85da169c6a75225db675dc5bbf6005}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{The Influence of {{Bicolor Damselfish}} ({{Stegastes}} Partitus) Territoriality on Reef Fish Visitation to {{Neon Goby}} ({{Elacatinus}} Oceanops) Cleaning Stations}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{gerayInfluenceDamselfishTerritoriality2021}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5cda4039d79c974a44f62ade31ca0523}
+      \strng{fullhash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{bibnamehash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{authorbibnamehash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{authornamehash}{5cda4039d79c974a44f62ade31ca0523}
+      \strng{authorfullhash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{8}
+      \field{note}{Clemson {{University Creative Inquiry Summer Symposium}}}
+      \field{title}{The {{Influence}} of {{Damselfish Territoriality}} on {{Reef Fish Visitation}} to {{Neon Goby Cleaning Stations}}}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{gerayInfluenceDamselfishTerritoriality2022}{unpublished}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{05576d3384942f5dd9a5b42ec3b048b9}
+      \strng{fullhash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{bibnamehash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{authorbibnamehash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \strng{authornamehash}{05576d3384942f5dd9a5b42ec3b048b9}
+      \strng{authorfullhash}{c9e1feeb3d35eb4dbfdea8b267999dd1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{1}
+      \field{note}{Society for {{Integrative}} and {{Comparative Biology}}}
+      \field{title}{The Influence of Damselfish Territoriality on Reef Fish Vistation to Neon Goby Cleaning Stations}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{guryanCleanFreaksNeon2017}{unpublished}{}
+      \name{author}{4}{ul=4}{%
+        {{un=0,uniquepart=base,hash=9bb3053228012517dd9cefdae68643ac}{%
+           family={Guryan},
+           familyi={G\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1aca06212be8bd18a1cfca2a020e8138}{%
+           family={Elhert},
+           familyi={E\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{62bc3ae957f98138785db87cf70f532a}
+      \strng{fullhash}{62bc3ae957f98138785db87cf70f532a}
+      \strng{bibnamehash}{62bc3ae957f98138785db87cf70f532a}
+      \strng{authorbibnamehash}{62bc3ae957f98138785db87cf70f532a}
+      \strng{authornamehash}{62bc3ae957f98138785db87cf70f532a}
+      \strng{authorfullhash}{62bc3ae957f98138785db87cf70f532a}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Clean {{Freaks}}: {{Neon}} Gobies Facilitate Reef Herbivore Diversity}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{guryanForecastingFutureCoral2017}{unpublished}{}
+      \name{author}{11}{ul=4}{%
+        {{un=0,uniquepart=base,hash=9bb3053228012517dd9cefdae68643ac}{%
+           family={Guryan},
+           familyi={G\bibinitperiod},
+           given={Thomas},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1aca06212be8bd18a1cfca2a020e8138}{%
+           family={Elhert},
+           familyi={E\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7ef3088c82d5755bb8c8598b2dc3f776}{%
+           family={Dubnicka},
+           familyi={D\bibinitperiod},
+           given={Isabella},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64c138a3d455c8793cbb3a6f036b8e59}{%
+           family={Ehlers},
+           familyi={E\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=58bcda5b3a827e09bcd393a95fb5b235}{%
+           family={Whitaker},
+           familyi={W\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=705b4a0cffec5241d16bdb271a835aef}{%
+           family={Rolfe},
+           familyi={R\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17c938517fbd2d4bf89ba145a2e5299d}{%
+           family={Krachman},
+           familyi={K\bibinitperiod},
+           given={Haley},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0187111d2afdf92e5162a964ef771049}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d2906e773842f2d1323d47be6618fcce}
+      \strng{fullhash}{5c0a0b98d9ec738d5d96edba956923ef}
+      \strng{bibnamehash}{5c0a0b98d9ec738d5d96edba956923ef}
+      \strng{authorbibnamehash}{5c0a0b98d9ec738d5d96edba956923ef}
+      \strng{authornamehash}{d2906e773842f2d1323d47be6618fcce}
+      \strng{authorfullhash}{5c0a0b98d9ec738d5d96edba956923ef}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Focus on {{Creative Inquiry}}}
+      \field{title}{Forecasting the {{Future}} of {{Coral Reef Communities}}}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{highFacultyDevelopmentCulturally2023}{unpublished}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=25fd377f7b988920d72d7b0ff41164fe}{%
+           family={High},
+           familyi={H\bibinitperiod},
+           given={Karen\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=08df8f3f5fac40f818fa1005f136cc12}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6da8cd140c78f13b5f550b58934dce8d}
+      \strng{fullhash}{46a54c323803222fadcdb847260c91bd}
+      \strng{bibnamehash}{46a54c323803222fadcdb847260c91bd}
+      \strng{authorbibnamehash}{46a54c323803222fadcdb847260c91bd}
+      \strng{authornamehash}{6da8cd140c78f13b5f550b58934dce8d}
+      \strng{authorfullhash}{46a54c323803222fadcdb847260c91bd}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This is an interactive, facilitated dive into faculty development of culturally responsive mentoring undergraduate and graduate research students. Faculty developers will engage in reflections and ideation about how they could help faculty foster healthier, more robust mentoring approaches to improve the research self‐efficacy of their students. Faculty developers seeking strategies and tools for facilitating productive, culturally responsive mentorship of both undergraduate and graduate research students are invited. The session: 1) Increase participants’ confidence in using common mentoring language to identify areas of improvement with their faculty at their home institutions. 2) Increase familiarity with the nuances of mentoring undergraduates versus graduate students in research and how this can affect faculty approaches to recruitment. 3) Provide a concrete strategy for creating faculty development opportunities that show faculty how to engage in more culturally responsive mentoring practices with their student research mentees and improve the mentoring culture in their institutions. For those interested in: Broadening Participation in Engineering and Engineering Technology and New Members}
+      \field{howpublished}{Workshop}
+      \field{month}{6}
+      \field{note}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{title}{Faculty {{Development}} for {{Culturally Responsive Mentoring}} of {{Graduate}} and {{Undergraduate Students}} in {{Research}}: {{Challenges}} and {{Strategies}}}
+      \field{venue}{{Baltimore, Maryland}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{molnarConservingOurMarine2022}{unpublished}{}
+      \name{author}{11}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3952de928ed638acf389f19d6d6d0d3b}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6bf80f701d487bc0d6a49ef66dc3c903}{%
+           family={Hays},
+           familyi={H\bibinitperiod},
+           given={Kori},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17a45c223f00b4ea4b3d03bf2e704479}{%
+           family={Bulik},
+           familyi={B\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=748849b4aa58de34787f73903b443ca6}{%
+           family={Britt},
+           familyi={B\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1661b9124e9142227fe577b9d1c9c5d0}{%
+           family={Ragland},
+           familyi={R\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76ad44970f907c66d099ce54a4e77413}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b9003ec77e4d4c1e7e7cfd35b107c7b}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Ean},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f241494b3e473c5f368d3620bee2fe17}
+      \strng{fullhash}{3b8fe5a8a3f242d3602b36c8aefc4e8f}
+      \strng{bibnamehash}{3b8fe5a8a3f242d3602b36c8aefc4e8f}
+      \strng{authorbibnamehash}{3b8fe5a8a3f242d3602b36c8aefc4e8f}
+      \strng{authornamehash}{f241494b3e473c5f368d3620bee2fe17}
+      \strng{authorfullhash}{3b8fe5a8a3f242d3602b36c8aefc4e8f}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Focus on {{Creative Inquiry}}}
+      \field{title}{Conserving Our Marine Resources by Assessing Reef Community Dynamics in the {{Florida Keys National Marine Sanctuary}}}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{molnarFollowLeaderInvestigating2021}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3952de928ed638acf389f19d6d6d0d3b}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b9830e58cbc085632eefa8961ab5e1cc}
+      \strng{fullhash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{bibnamehash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{authorbibnamehash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{authornamehash}{b9830e58cbc085632eefa8961ab5e1cc}
+      \strng{authorfullhash}{fa3872ff1f7922e613999fc12f32def4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{8}
+      \field{note}{Clemson {{University Creative Inquiry Summer Symposium}}}
+      \field{title}{Follow the {{Leader}}: {{Investigating}} Coral Predation Behavior in the Marine Snail {{Coralliophila}} Abbreviate in the {{Florida Keys}}}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{molnarFollowLeaderInvestigating2022}{unpublished}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3952de928ed638acf389f19d6d6d0d3b}{%
+           family={Molnar},
+           familyi={M\bibinitperiod},
+           given={Diana},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{95c3bf44391f2371e29e30d695568baa}
+      \strng{fullhash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{bibnamehash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{authorbibnamehash}{fa3872ff1f7922e613999fc12f32def4}
+      \strng{authornamehash}{95c3bf44391f2371e29e30d695568baa}
+      \strng{authorfullhash}{fa3872ff1f7922e613999fc12f32def4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Follow the {{Leader}}: {{Investigating}} Aggregation Cues in the Gregarious Coral Predator {{Coralliophila}} Galea in the Middle {{Florida Keys}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{parkerHomeWhereDebris2021}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=9d3635a5a0e472d1eb07829a39d3470c}{%
+           family={Parker},
+           familyi={P\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f424bc746e1525a0c37379a24c2d91fd}
+      \strng{fullhash}{71556a8fd61574b75211f32344cda78d}
+      \strng{bibnamehash}{71556a8fd61574b75211f32344cda78d}
+      \strng{authorbibnamehash}{71556a8fd61574b75211f32344cda78d}
+      \strng{authornamehash}{f424bc746e1525a0c37379a24c2d91fd}
+      \strng{authorfullhash}{71556a8fd61574b75211f32344cda78d}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{8}
+      \field{note}{Clemson {{University Creative Inquiry Summer Symposium}}}
+      \field{title}{Home Is Where the Debris Is: {{Assessing}} Marine Debris Removal Risks on Coral Reef Communities}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{paytonScienceChildressLab2021}{unpublished}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3689b76a148bf41384984949136eee96}
+      \strng{fullhash}{f375cae3d41708ef8660b31933495eb4}
+      \strng{bibnamehash}{f375cae3d41708ef8660b31933495eb4}
+      \strng{authorbibnamehash}{f375cae3d41708ef8660b31933495eb4}
+      \strng{authornamehash}{3689b76a148bf41384984949136eee96}
+      \strng{authorfullhash}{f375cae3d41708ef8660b31933495eb4}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{8}
+      \field{note}{{{BioSci Research Exposition}}}
+      \field{title}{The {{Science}} of the {{Childress Lab}}}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{paytonAbundancePatternsTaxa2024}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=eef808dfcf171a3c3bee51899bc4ff7a}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=c07e3350fd0fe6c30078e8ae3be65e07}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3e8a285a2681ec27483de7e482ccdfb}
+      \strng{fullhash}{9bd2eedaa4502f78a1d34caf2ff25d10}
+      \strng{bibnamehash}{9bd2eedaa4502f78a1d34caf2ff25d10}
+      \strng{authorbibnamehash}{9bd2eedaa4502f78a1d34caf2ff25d10}
+      \strng{authornamehash}{c3e8a285a2681ec27483de7e482ccdfb}
+      \strng{authorfullhash}{9bd2eedaa4502f78a1d34caf2ff25d10}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Florida Keys reef tract has rapidly shifted from a structurally complex, hard coral-dominated reef to a less rugose, soft coral-dominated reef. This transition has been facilitated by persistent anthropogenic stressors including recreational and commercial fishing and increased anthropogenic marine debris. During the summers of 2020–2022, benthic censuses were conducted to identify substrate and marine debris composition for 30 reefs in the middle Florida Keys. Inshore reefs contained higher rugosity, coral cover, and marine debris abundance primarily comprised of monofilament and rope from fishing traps. Plastic items (e.g., ropes and monofilament) overall had the highest species diversity. Additionally, marine debris appears to promote turf algae growth on inshore reefs. While is it not yet possible to determine if this pattern of high debris nearshore is due to proximity to onshore debris sources, accumulation due to higher rugosity snagging debris, or increased debris removal efforts offshore, these differences in marine debris types and abundances suggest variability in potential impacts of debris on marine biota on inshore versus offshore reefs. Therefore, the differential use of marine debris by associated biota should be considered in marine debris management practices.}
+      \field{day}{5}
+      \field{issn}{2296-7745}
+      \field{journaltitle}{Frontiers in Marine Science}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{shortjournal}{Front. Mar. Sci.}
+      \field{title}{Abundance, Patterns, and Taxa Associations of Anthropogenic Marine Debris on Reefs in the Middle {{Florida Keys}}}
+      \field{urlday}{6}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{volume}{11}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1412858}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/fmars.2024.1412858
+      \endverb
+      \verb{file}
+      \verb C:\Users\randi\Zotero\storage\7Z8FRFV8\Payton et al. - 2024 - Abundance, patterns, and taxa associations of anth.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fmars.2024.1412858/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fmars.2024.1412858/full
+      \endverb
+    \endentry
+    \entry{ransomCommunityCulturalWealth2024}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=68a0ff93c3f84920863214e6a563b3a5}{%
+           family={Ransom},
+           familyi={R\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=922352fdb467a66ca925a7fdf2688db6}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}and\bibnamedelima Manning},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Jessica\bibnamedelima Allison},
+           giveni={J\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Marietta, Georgia}%
+      }
+      \strng{namehash}{991f6cc30e6cc7485c539914efe2541c}
+      \strng{fullhash}{991f6cc30e6cc7485c539914efe2541c}
+      \strng{bibnamehash}{991f6cc30e6cc7485c539914efe2541c}
+      \strng{authorbibnamehash}{991f6cc30e6cc7485c539914efe2541c}
+      \strng{authornamehash}{991f6cc30e6cc7485c539914efe2541c}
+      \strng{authorfullhash}{991f6cc30e6cc7485c539914efe2541c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{10}
+      \field{eventtitle}{2024 {{South East Section Meeting}}}
+      \field{month}{3}
+      \field{title}{Community {{Cultural Wealth}} from an {{Engineering}} and {{Science Education Department}}}
+      \field{urlday}{26}
+      \field{urlmonth}{4}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{12}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.18260/1-2--45512
+      \endverb
+      \verb{file}
+      \verb C:\Users\randi\Zotero\storage\BLCRLE24\Ransom et al. - 2024 - Community Cultural Wealth from an Engineering and .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://peer.asee.org/community-cultural-wealth-from-an-engineering-and-science-education-department
+      \endverb
+      \verb{url}
+      \verb https://peer.asee.org/community-cultural-wealth-from-an-engineering-and-science-education-department
+      \endverb
+    \endentry
+    \entry{ransomCommunityPracticeSTEM2023}{unpublished}{}
+      \name{author}{3}{ul=2}{%
+        {{un=0,uniquepart=base,hash=84a2fc151a5e1c4e416f150ca55564dd}{%
+           family={Ransom},
+           familyi={R\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d65d852f2e4e0b3196edebcf8c7ec339}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{a525910308a4bfefe3b66e8ec0faffd2}
+      \strng{fullhash}{360b17ccef327ad33afe6c218237b337}
+      \strng{bibnamehash}{360b17ccef327ad33afe6c218237b337}
+      \strng{authorbibnamehash}{360b17ccef327ad33afe6c218237b337}
+      \strng{authornamehash}{a525910308a4bfefe3b66e8ec0faffd2}
+      \strng{authorfullhash}{360b17ccef327ad33afe6c218237b337}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{1}
+      \field{note}{Southeastern {{STEM Education Research Conference}}}
+      \field{title}{A Community of Practice for {{STEM}} Education Graduate Students: {{Lunch}} \& {{Learn}}}
+      \field{venue}{{Cookeville, TN}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{ransomCreatingSenseBelonging2023}{unpublished}{}
+      \name{author}{3}{ul=2}{%
+        {{un=0,uniquepart=base,hash=84a2fc151a5e1c4e416f150ca55564dd}{%
+           family={Ransom},
+           familyi={R\bibinitperiod},
+           given={Timothy},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=d65d852f2e4e0b3196edebcf8c7ec339}{%
+           family={Manning},
+           familyi={M\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e98b57264cfd4548fac7e9321d268dc2}
+      \strng{fullhash}{a2d3b2cbf45e2038e4b8ddebcb15b4ad}
+      \strng{bibnamehash}{a2d3b2cbf45e2038e4b8ddebcb15b4ad}
+      \strng{authorbibnamehash}{a2d3b2cbf45e2038e4b8ddebcb15b4ad}
+      \strng{authornamehash}{e98b57264cfd4548fac7e9321d268dc2}
+      \strng{authorfullhash}{a2d3b2cbf45e2038e4b8ddebcb15b4ad}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Cross {{Discipline Based Education Research Conference}} ({{XDBER}})}
+      \field{title}{Creating a {{Sense}} of {{Belonging}} and {{Inclusivity}}: {{A Lunch}} and {{Learn Community}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{rojugbokanMeasuringSomethingVery2022}{unpublished}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=0e2007639b6c7d40ec5a01c2ea4ba996}{%
+           family={Rojugbokan},
+           familyi={R\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4800b52f1939df161d2b73ef27d916a9}{%
+           family={VandenBrekel},
+           familyi={V\bibinitperiod},
+           given={McKenzie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4725f0e2fcce938f1bf858f2fdbc596f}{%
+           family={Stephens},
+           familyi={S\bibinitperiod},
+           given={Madison},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=006a7d703cb69ea0a0c1a3d2d900265c}{%
+           family={Doughty},
+           familyi={D\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9d9eff784443b3cec3c322f89b72fb5f}{%
+           family={Medina},
+           familyi={M\bibinitperiod},
+           given={Kelly},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae734e9598de4853aba706be802e54be}{%
+           family={Metzger},
+           familyi={M\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8353c4be7a3d812979967ba6d0b1fbe8}{%
+           family={Ryan},
+           familyi={R\bibinitperiod},
+           given={Patricia},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ca417357e0fd98f3217e4f6b4a7de7a}
+      \strng{fullhash}{d331ef436401dedab330b45ddc5d9b6d}
+      \strng{bibnamehash}{d331ef436401dedab330b45ddc5d9b6d}
+      \strng{authorbibnamehash}{d331ef436401dedab330b45ddc5d9b6d}
+      \strng{authornamehash}{3ca417357e0fd98f3217e4f6b4a7de7a}
+      \strng{authorfullhash}{d331ef436401dedab330b45ddc5d9b6d}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Focus on {{Creative Inquiry}}}
+      \field{title}{Measuring {{Something Very Fishy}}: {{Assessment}} of Children’s Identity after Participation in a Marine Science Outreach Program}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{rolfeDamselsDistressInfluence2017a}{unpublished}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=705b4a0cffec5241d16bdb271a835aef}{%
+           family={Rolfe},
+           familyi={R\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0187111d2afdf92e5162a964ef771049}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b54254f5b7a2611b8fb46fe55f2ac7f}
+      \strng{fullhash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{bibnamehash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{authorbibnamehash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{authornamehash}{9b54254f5b7a2611b8fb46fe55f2ac7f}
+      \strng{authorfullhash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \field{extraname}{1}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Benthic {{Ecology Meeting}}}
+      \field{title}{Damsels in {{Distress}}: {{Influence}} of Reef Composition on Abundance and Behavior of Damselfishes}
+      \field{venue}{{Myrtle Beach, SC}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{rolfeDamselsDistressInfluence2017}{unpublished}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=705b4a0cffec5241d16bdb271a835aef}{%
+           family={Rolfe},
+           familyi={R\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0187111d2afdf92e5162a964ef771049}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Caroline},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9b54254f5b7a2611b8fb46fe55f2ac7f}
+      \strng{fullhash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{bibnamehash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{authorbibnamehash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \strng{authornamehash}{9b54254f5b7a2611b8fb46fe55f2ac7f}
+      \strng{authorfullhash}{ab0ffbdbe5b78d47df94a53be96b46ff}
+      \field{extraname}{2}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Damsels in {{Distress}}: {{Influence}} of Reef Composition on Abundance and Behavior of Damselfishes}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsWhatOurWaters2023}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d512204ac706aa13e96cec50b0bbeba2}{%
+           family={Sims},
+           familyi={S\bibinitperiod},
+           given={Alicia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=467071e88f18c695df8a557754e5fa01}{%
+           family={Magnin},
+           familyi={M\bibinitperiod},
+           given={Nicholas},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b771d4e0f9db889a56c2229c89b1763b}{%
+           family={Montalvo},
+           familyi={M\bibinitperiod},
+           given={Maddie},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{bdcfdf80b2cfab4b92caf60bd73f5cec}
+      \strng{fullhash}{5cb76f1dbaf0e866d303e1588679ef20}
+      \strng{bibnamehash}{5cb76f1dbaf0e866d303e1588679ef20}
+      \strng{authorbibnamehash}{5cb76f1dbaf0e866d303e1588679ef20}
+      \strng{authornamehash}{bdcfdf80b2cfab4b92caf60bd73f5cec}
+      \strng{authorfullhash}{5cb76f1dbaf0e866d303e1588679ef20}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Focus on {{Creative Inquiry}}}
+      \field{title}{What's {{In Our Waters}}? {{We Offer Answers}}!}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+    \endentry
+    \entry{smithLookingOceanDifferent2022}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=37621f4fc34fc6cd48aaed8d3757070a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kellie},
+           giveni={K\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c6191b89703e5dc88bb1e01e6974ed1}
+      \strng{fullhash}{10a3a565e17cbedbc20163e577b5a42f}
+      \strng{bibnamehash}{10a3a565e17cbedbc20163e577b5a42f}
+      \strng{authorbibnamehash}{10a3a565e17cbedbc20163e577b5a42f}
+      \strng{authornamehash}{6c6191b89703e5dc88bb1e01e6974ed1}
+      \strng{authorfullhash}{10a3a565e17cbedbc20163e577b5a42f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{1}
+      \field{note}{Society for {{Integrative}} and {{Comparative Biology}}}
+      \field{title}{Looking at the Ocean through a Different Lense: {{Using}} Virtual Reality and Citizen Science to Engage Elementary Students in Marine Education}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{smithImpactsConsecutiveBleaching2019}{article}{}
+      \name{author}{7}{}{%
+        {{un=1,uniquepart=given,hash=69e498aee84a0863305a7fffc04b5291}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=eef808dfcf171a3c3bee51899bc4ff7a}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dea7df6b8042e871aead4d38c9a4553}{%
+           family={\textbf{Sims,\bibnamedelimb Randi\bibnamedelimb J.}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=45feb6ab23cb8dee14609772606db6c2}{%
+           family={Stroud},
+           familyi={S\bibinitperiod},
+           given={Caroline\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57adc1a301580af7d932602b69f262a3}{%
+           family={Jeanes},
+           familyi={J\bibinitperiod},
+           given={Reanna\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7676ab86e08dae1370190971f755dd2a}{%
+           family={Hyatt},
+           familyi={H\bibinitperiod},
+           given={Taylor\bibnamedelima B.},
+           giveni={T\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07e3350fd0fe6c30078e8ae3be65e07}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e786886e410326933435f044b96c176d}
+      \strng{fullhash}{27573605734d1123b4639421179bb653}
+      \strng{bibnamehash}{27573605734d1123b4639421179bb653}
+      \strng{authorbibnamehash}{27573605734d1123b4639421179bb653}
+      \strng{authornamehash}{e786886e410326933435f044b96c176d}
+      \strng{authorfullhash}{27573605734d1123b4639421179bb653}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0722-4028, 1432-0975}
+      \field{journaltitle}{Coral Reefs}
+      \field{langid}{english}
+      \field{month}{8}
+      \field{number}{4}
+      \field{shortjournal}{Coral Reefs}
+      \field{title}{Impacts of Consecutive Bleaching Events and Local Algal Abundance on Transplanted Coral Colonies in the {{Florida Keys}}}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{38}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{851\bibrangedash 861}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/s00338-019-01823-7
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\W4SHLB2C\\Smith et al. - 2019 - Impacts of consecutive bleaching events and local .pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://link.springer.com/10.1007/s00338-019-01823-7
+      \endverb
+      \verb{url}
+      \verb http://link.springer.com/10.1007/s00338-019-01823-7
+      \endverb
+    \endentry
+    \entry{tallapragadaSomethingVeryFishy2021}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=8fb4d01148dfb737cfe73c75b290f456}{%
+           family={Tallapragada},
+           familyi={T\bibinitperiod},
+           given={Meghnaa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d852f1748d86ec8951f6fd007ef9aa78}{%
+           family={Prosser},
+           familyi={P\bibinitperiod},
+           given={Kathy\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1d85e237e3286b1ec2d9ca9725e110e}{%
+           family={Braffitt},
+           familyi={B\bibinitperiod},
+           given={Kaitlyn\bibnamedelima F.},
+           giveni={K\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd77512e314b3058e3b3b88af1dd9654}{%
+           family={Bridgeford},
+           familyi={B\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7b0854eb310f8851651cfa0260c6149}{%
+           family={Gleaton},
+           familyi={G\bibinitperiod},
+           given={Emily\bibnamedelima C.},
+           giveni={E\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dcfb245d9a377799cbf8c1ebb664b2d4}{%
+           family={Saverance},
+           familyi={S\bibinitperiod},
+           given={Madeline\bibnamedelima G.},
+           giveni={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eff3841742f8f1061fd0282de86564c}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={Kara\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef808dfcf171a3c3bee51899bc4ff7a}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dea7df6b8042e871aead4d38c9a4553}{%
+           family={\textbf{Sims,\bibnamedelimb Randi\bibnamedelimb J.}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=69e498aee84a0863305a7fffc04b5291}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07e3350fd0fe6c30078e8ae3be65e07}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3ddf52274023f2d7e06910e7a3a1f56d}
+      \strng{fullhash}{63bbce1a45b028addaa1b598b6e499b7}
+      \strng{bibnamehash}{63bbce1a45b028addaa1b598b6e499b7}
+      \strng{authorbibnamehash}{63bbce1a45b028addaa1b598b6e499b7}
+      \strng{authornamehash}{3ddf52274023f2d7e06910e7a3a1f56d}
+      \strng{authorfullhash}{63bbce1a45b028addaa1b598b6e499b7}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{This paper reports about an informal learning experience – Something Very Fishy (SVF) – which is focused on ocean conservation and climate change. Results from 49 elementary school student workbooks indicated that experiencing SVF improved their understanding of ocean conservation, increased their interest in pursuing science careers, but did not affect their actions towards conservation. Survey results from 40 undergraduate students who helped run SVF indicated that the more efficacious they felt about communicating marine science and the more identified they felt with the scientific community, the more inclined they were to choose careers involving science communication. Survey results from 27 elementary school teachers, who accompanied their students to SVF, indicated perceived norms around teaching marine science and climate change affected their intentions to teach those topics in their classrooms. The paper concludes with implications of these findings on the future of SVF and programs alike, and research directions for environmental conservation in informal settings.}
+      \field{day}{3}
+      \field{issn}{1752-4032, 1752-4040}
+      \field{journaltitle}{Environmental Communication}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{7}
+      \field{shortjournal}{Environmental Communication}
+      \field{shorttitle}{Something {{Very Fishy}}}
+      \field{title}{Something {{Very Fishy}}: {{An Informal STEAM Project Making}} a {{Case}} for {{Ocean Conservation}} and {{Climate Change}}}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{15}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{904\bibrangedash 922}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/17524032.2021.1913208
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\L6GJJBF4\\Tallapragada et al. - 2021 - Something Very Fishy An Informal STEAM Project Ma.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17524032.2021.1913208
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/17524032.2021.1913208
+      \endverb
+    \endentry
+    \entry{tallapragadaSomethingVeryFishy2023}{inbook}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=8fb4d01148dfb737cfe73c75b290f456}{%
+           family={Tallapragada},
+           familyi={T\bibinitperiod},
+           given={Meghnaa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6dea7df6b8042e871aead4d38c9a4553}{%
+           family={\textbf{Sims,\bibnamedelimb Randi\bibnamedelimb J.}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=eef808dfcf171a3c3bee51899bc4ff7a}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea\bibnamedelima G.},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7eff3841742f8f1061fd0282de86564c}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={Kara\bibnamedelima R.},
+           giveni={K\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cd77512e314b3058e3b3b88af1dd9654}{%
+           family={Bridgeford},
+           familyi={B\bibinitperiod},
+           given={Kelly\bibnamedelima E.},
+           giveni={K\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=69e498aee84a0863305a7fffc04b5291}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie\bibnamedelima M.},
+           giveni={K\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a61dec750799618255429259da02979c}{%
+           family={Fuentes},
+           familyi={F\bibinitperiod},
+           given={Melissa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d852f1748d86ec8951f6fd007ef9aa78}{%
+           family={Prosser},
+           familyi={P\bibinitperiod},
+           given={Kathy\bibnamedelima L.},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07e3350fd0fe6c30078e8ae3be65e07}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=7b7defab4f252f641776e2f4bbd595e4}{%
+           family={Burchfield},
+           familyi={B\bibinitperiod},
+           given={Joanna\bibnamedelima G.},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=9855abca9f89e60e3ad909272cf5f8ad}{%
+           family={Kedrowicz},
+           familyi={K\bibinitperiod},
+           given={April\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Lanham, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {Lexington Books}%
+      }
+      \strng{namehash}{3ddf52274023f2d7e06910e7a3a1f56d}
+      \strng{fullhash}{3293144af6567d3d9a6ad9dc091802c2}
+      \strng{bibnamehash}{3293144af6567d3d9a6ad9dc091802c2}
+      \strng{authorbibnamehash}{3293144af6567d3d9a6ad9dc091802c2}
+      \strng{authornamehash}{3ddf52274023f2d7e06910e7a3a1f56d}
+      \strng{authorfullhash}{3293144af6567d3d9a6ad9dc091802c2}
+      \strng{editorbibnamehash}{53658febf3cb335846dcc241b7db721d}
+      \strng{editornamehash}{53658febf3cb335846dcc241b7db721d}
+      \strng{editorfullhash}{53658febf3cb335846dcc241b7db721d}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{"This volume addresses teaching and research across disciplines, communication and identity development, and the centrality of communication in our quickly changing world. Contributors convey the social and global need, value, and responsibility of communication instruction across disciplines"--}
+      \field{booktitle}{Teaching Communication across Disciplines for Professional Development, Civic Engagement, and Beyond}
+      \field{isbn}{978-1-66690-394-2}
+      \field{title}{Something {{Very Fishy}} ({{SVF}}): {{Avenues}} of {{Communication}} to {{Inspire Engagement}} with {{Climate}} and {{Marine Science}}}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\X9SWM8EM\\Revised_Chapter_Final0227.pdf
+      \endverb
+      \keyw{College teachers,Communication,Communication in higher education,Communication in management,Interdisciplinary approach in education,Professional relationships,Study and teaching (Higher)}
+    \endentry
+    \entry{simsDamselfishChihuahuasReef2015}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{fullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{bibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorbibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authornamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorfullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \field{extraname}{1}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{6}
+      \field{note}{Keys {{Marine Laboratory Science Night}}}
+      \field{title}{Damselfish: {{Chihuahuas}} of the Reef}
+      \field{venue}{{Layton, FL}}
+      \field{year}{2015}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsProjectsAreNot2021}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{fullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{bibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorbibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authornamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorfullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \field{extraname}{2}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{10}
+      \field{note}{Association for {{College Undergraduate Biology Educators Annual Conference}}}
+      \field{title}{Projects Are Not Just for Kids: {{Integrating}} Science Outreach Projects into Undergraduate Learning during a Pandemic}
+      \field{venue}{{Virtual}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsProjectsAreNot2021a}{unpublished}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{fullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{bibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorbibnamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authornamehash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \strng{authorfullhash}{3075dce0e3df8dc67f7d515485b6fbc9}
+      \field{extraname}{3}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{11}
+      \field{note}{South {{Carolina Marine Educators Association Annual Conference}}}
+      \field{title}{Projects Are Not Just for Kids: {{Integrating}} Science Outreach Projects into Undergraduate Learning during a Pandemic}
+      \field{venue}{{Charleston, SC}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsBridgingGapResearch2021}{unpublished}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{fullhash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{bibnamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authorbibnamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authornamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authorfullhash}{3a961b984170e31bbdc9dc56515c32f3}
+      \field{extraname}{1}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{7}
+      \field{note}{National {{Marine Educator}}'s {{Association Annual Conference}}}
+      \field{title}{Bridging the {{Gap Between Research}} and {{Outreach}}: {{Connecting Undergraduate Students}} to the {{Ocean Through Experiential Learning}}.}
+      \field{venue}{{Virtual}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsProjectsAreNot2022}{unpublished}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{fullhash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{bibnamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authorbibnamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authornamehash}{3a961b984170e31bbdc9dc56515c32f3}
+      \strng{authorfullhash}{3a961b984170e31bbdc9dc56515c32f3}
+      \field{extraname}{2}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{1}
+      \field{note}{Society for {{Integrative}} and {{Comparative Biology}}}
+      \field{title}{Projects Are Not Just for Kids: {{Integrating}} Science Outreach Projects into Undergraduate Learning during a Pandemic}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsPilotingEMPOWERSProgram2025}{article}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=25fd377f7b988920d72d7b0ff41164fe}{%
+           family={High},
+           familyi={H\bibinitperiod},
+           given={Karen\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bf632530a434f5833a440e208ff37e2}{%
+           family={Van\bibnamedelima Puymbroeck},
+           familyi={V\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Marieke},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b46de09e5f6017b2f5171d8fe269e1cd}{%
+           family={Brewer},
+           familyi={B\bibinitperiod},
+           given={Sofia},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=464488a23546ee3703749251eab57068}{%
+           family={Fender},
+           familyi={F\bibinitperiod},
+           given={Lily},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montreal, Canada}%
+      }
+      \strng{namehash}{e06dcd2676c8501cb95a7f69bcb92443}
+      \strng{fullhash}{f9e0cdb72ea9c454cb115c56f605c48f}
+      \strng{bibnamehash}{f9e0cdb72ea9c454cb115c56f605c48f}
+      \strng{authorbibnamehash}{f9e0cdb72ea9c454cb115c56f605c48f}
+      \strng{authornamehash}{e06dcd2676c8501cb95a7f69bcb92443}
+      \strng{authorfullhash}{f9e0cdb72ea9c454cb115c56f605c48f}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2025 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{title}{Piloting the {{EMPOWERS Program}}: {{Inaugurating Student-Centered Holistic Mentorship}} for {{STEM Practitioners}} in {{Academia}}}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{15}
+      \range{pages}{1}
+    \endentry
+    \entry{simsUniversityExperiencesMarine2021}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8fb4d01148dfb737cfe73c75b290f456}{%
+           family={Tallapragada},
+           familyi={T\bibinitperiod},
+           given={Meghnaa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=eef808dfcf171a3c3bee51899bc4ff7a}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3b6ee28ad959915db5a7ed035f97a447}{%
+           family={Noonan},
+           familyi={N\bibinitperiod},
+           given={Kara},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d852f1748d86ec8951f6fd007ef9aa78}{%
+           family={Prosser},
+           familyi={P\bibinitperiod},
+           given={Kathy\bibnamedelima L},
+           giveni={K\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c07e3350fd0fe6c30078e8ae3be65e07}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael\bibnamedelima J},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{22752d60218ef355ae61ac3a4c2577bb}
+      \strng{bibnamehash}{22752d60218ef355ae61ac3a4c2577bb}
+      \strng{authorbibnamehash}{22752d60218ef355ae61ac3a4c2577bb}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{22752d60218ef355ae61ac3a4c2577bb}
+      \field{extraname}{1}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Synopsis Climate and ocean literacy are two of the most important challenges facing society today. However, many students lack exposure to these topics upon entering college. As a result, these students must rely on learning climate literacy and ocean conservation through experiences outside of those provided in the traditional undergraduate classroom. To fill this gap, we initiated a marine science professional development program to expose undergraduate students to ocean literacy principles and climate change concepts through marine ecology research and educational outreach. This study evaluates the effects of our undergraduate experiential learning for individuals involved in our research team, our educational outreach team, or both. Clemson University alumni that participated in our program were surveyed to determine educational and professional gains in three areas related to: (1) knowledge; (2) careers; and (3) attitudes. Multiple linear and logistic regressions were used to understand the relationships between gains and program type, mentor experience, and duration of program enrollment. In addition, we evaluated demographic covariates including age, ideology, and gender. Our study found that perceived knowledge of marine science and science communication skills increased with positive mentor experience. Alumni that rated their experience with their mentors highly also indicated that the program was important to their careers after graduation. Students who participated in any program for a prolonged period were more likely to indicate that marine science was important to their careers. These students were also more likely to continue their education. Additionally, we saw that a sense of belonging and identity in science, as well as the understanding of climate change threat on the marine environment, all increased with longer program involvement, more than the type of experience (research versus outreach). Overall, we found that both the research and outreach programs offered opportunities for advancements in knowledge, careers, and attitudes. These results provide evidence that experiential learning has the potential to increase student engagement and understanding of climate change and ocean literacy communication as well as a sense of belonging in science-oriented fields.}
+      \field{day}{4}
+      \field{issn}{1540-7063, 1557-7023}
+      \field{journaltitle}{Integrative and Comparative Biology}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{number}{3}
+      \field{title}{University {{Experiences}} of {{Marine Science Research}} and {{Outreach Beyond}} the {{Classroom}}}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2023}
+      \field{volume}{61}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1078\bibrangedash 1088}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1093/icb/icab104
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\44H89J6J\\Sims et al. - 2021 - University Experiences of Marine Science Research .pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://academic.oup.com/icb/article/61/3/1078/6287066
+      \endverb
+      \verb{url}
+      \verb https://academic.oup.com/icb/article/61/3/1078/6287066
+      \endverb
+    \endentry
+    \entry{simsDefendersReefImpacts2016a}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{bibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authorbibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \field{extraname}{2}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Defenders of the Reef: {{Impacts}} of Damselfish Territoriality on Coral Reef Algal Community Structure}
+      \field{venue}{{Clemson, SC}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsDefendersReefImpacts2016}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{bibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authorbibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \field{extraname}{3}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{3}
+      \field{note}{Southeastern {{Ecology}} and {{Evolution Conference}}}
+      \field{title}{Defenders of the Reef: {{Impacts}} of Damselfish Territoriality on Coral Reef Algal Community Structure}
+      \field{venue}{{Tallahassee, FL}}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsDefendersReefMeasuring2017}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{bibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authorbibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \field{extraname}{4}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{1}
+      \field{note}{Society for {{Integrative}} and {{Comparative Biology}}}
+      \field{title}{Defenders of the Reef: {{Measuring}} the Impacts of Damselfish Territoriality on Coral Reef Community Structure}
+      \field{venue}{{New Orleans, LA}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsDefendersReefMeasuring2017a}{unpublished}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=2a07febf924dc168dce48f678285bd30}{%
+           family={Towe},
+           familyi={T\bibinitperiod},
+           given={Abigail},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d10366c3eb10fcf7f3e7d6b9e5ed033}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kylie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{bibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authorbibnamehash}{947a6c428b04fa7b21657a9f093208a9}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{947a6c428b04fa7b21657a9f093208a9}
+      \field{extraname}{5}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Oral Presentation}
+      \field{month}{4}
+      \field{note}{Benthic {{Ecology Meeting}}}
+      \field{title}{Defenders of the Reef: {{Measuring}} the Impacts of Damselfish Territoriality on Coral Reef Transplants}
+      \field{venue}{{Myrtle Beach, SC}}
+      \field{year}{2017}
+      \field{dateera}{ce}
+    \endentry
+    \entry{simsOverlookedUnderlyingUnderstanding2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=404f0653f26c0c1e06be5deebd214493}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=011502e146601769990c9f95ecc220f2}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a0977bbe2b652dc172c0032a280110}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e8eccac8645c0eafe7e3ff458a9a3cb}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76376fc44c407e7cdf80fd317d7beecd}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c58c11f52283f63a82b1ef751b96e2b3}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Baltimore, Maryland}%
+      }
+      \list{publisher}{1}{%
+        {ASEE Conferences}%
+      }
+      \strng{namehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{fullhash}{c64fc45f4aedb74536a0277fdf4d801e}
+      \strng{bibnamehash}{c64fc45f4aedb74536a0277fdf4d801e}
+      \strng{authorbibnamehash}{c64fc45f4aedb74536a0277fdf4d801e}
+      \strng{authornamehash}{342f71e1b4890d448bba3e9024f98962}
+      \strng{authorfullhash}{c64fc45f4aedb74536a0277fdf4d801e}
+      \field{extraname}{6}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This research paper study was situated within a peer review mentoring program in which novice reviewers were paired with mentors who are former National Science Foundation (NSF) program directors with experience running discipline-based education research (DBER) panels. Whether it be a manuscript or grant proposal, the outcome of peer review can greatly influence academic careers and the impact of research on a field. Yet the criteria upon which reviewers base their recommendations and the processes they follow as they review are poorly understood. Mentees reviewed three previously submitted proposals to the NSF and drafted pre-panel reviews regarding the proposals’ intellectual merit and broader impacts, strengths, and weaknesses relative to solicitation-specific criteria. After participation in one mock review panel, mentees could then revise their pre-review evaluations based on the panel discussion. Using a lens of transformative learning theory, this study sought to answer the following research questions: 1) What are the tacit criteria used to inform recommendations for grant proposal reviews among scholars new to the review process? 2) To what extent are there changes in these tacit criteria and subsequent recommendations for grant proposal reviews after participation in a mock panel review? Using a single case study approach to explore one mock review panel, we conducted document analyses of six mentees’ reviews completed before and after their participation in the mock review panel. Findings from this study suggest that reviewers primarily focus on the positive broader impacts proposed by a study and the level of detail within a submitted proposal. Although mentees made few changes to their reviews after the mock panel discussion, changes which were present illustrate that reviewers more deeply considered the broader impacts of the proposed studies. These results can inform review panel practices as well as approaches to training to support new reviewers in DBER fields.}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2023 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{langid}{english}
+      \field{month}{6}
+      \field{title}{Overlooked, {{Underlying}}: {{Understanding}} Tacit Criteria of Proposal Reviewing during a Mock Panel Review}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\VTL83RQN\\Sims et al. - Overlooked, Underlying Understanding tacit criter.pdf
+      \endverb
+    \endentry
+    \entry{simsMSIFacultyRise2025}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=404f0653f26c0c1e06be5deebd214493}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2a420d164ba2cd1b7584b98c5fbb9b5f}{%
+           family={Stephan},
+           familyi={S\bibinitperiod},
+           given={Abigail\bibnamedelima T.},
+           giveni={A\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f3e18efc6ea38b358f148a3e6fbf1314}{%
+           family={Ngoc\bibnamedelimb Y\bibnamedelima Ta},
+           familyi={N\bibinitperiod\bibinitdelim Y\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Thien},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dda3ca7024e773263cbd85363823731d}{%
+           family={Sharpe},
+           familyi={S\bibinitperiod},
+           given={Alexandra},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e8eccac8645c0eafe7e3ff458a9a3cb}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Montreal, Canada}%
+      }
+      \strng{namehash}{ccbf213aea4e09528369ba18ac2dff72}
+      \strng{fullhash}{9ba056e4cabf3c3a857b9a9d3bc7f136}
+      \strng{bibnamehash}{9ba056e4cabf3c3a857b9a9d3bc7f136}
+      \strng{authorbibnamehash}{9ba056e4cabf3c3a857b9a9d3bc7f136}
+      \strng{authornamehash}{ccbf213aea4e09528369ba18ac2dff72}
+      \strng{authorfullhash}{9ba056e4cabf3c3a857b9a9d3bc7f136}
+      \field{sortinit}{t}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{eventtitle}{2023 {{ASEE Annual Conference}} \& {{Exposition}}}
+      \field{journaltitle}{2025 {{ASEE Annual Conference}} \& {{Exposition Proceedings}}}
+      \field{title}{{{MSI Faculty}} on the {{Rise}}: {{Strengthening Federal Grant Proposals}} through {{Cross-Institution Collaborations}} and {{Networking}}}
+      \field{year}{2025}
+      \field{dateera}{ce}
+      \field{pages}{15}
+      \range{pages}{1}
+    \endentry
+    \entry{turnerClemsonUniversityCreative2021}{unpublished}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=76ad44970f907c66d099ce54a4e77413}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37621f4fc34fc6cd48aaed8d3757070a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kellie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c33692d556d3c43ff3b187bc2382985}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Delaney},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02129e8f916da83281a8e986f60a06bb}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{fullhash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{bibnamehash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{authorbibnamehash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{authornamehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{authorfullhash}{3f183e20d3befc130f71278d5f4b42b5}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Clemson {{University}}’s {{Creative Inquiry}}, {{Something Very Fishy}}: {{Marine Science Outreach}} in {{South Carolina}} for {{Elementary Schools}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{turnerClemsonUniversityCreative2021a}{unpublished}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=76ad44970f907c66d099ce54a4e77413}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a29c8190473a1c966b35685c4074aba}{%
+           family={Geray},
+           familyi={G\bibinitperiod},
+           given={Cem},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=37621f4fc34fc6cd48aaed8d3757070a}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Kellie},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c33692d556d3c43ff3b187bc2382985}{%
+           family={Shaw},
+           familyi={S\bibinitperiod},
+           given={Delaney},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02129e8f916da83281a8e986f60a06bb}{%
+           family={Rees},
+           familyi={R\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{fullhash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{bibnamehash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{authorbibnamehash}{3f183e20d3befc130f71278d5f4b42b5}
+      \strng{authornamehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{authorfullhash}{3f183e20d3befc130f71278d5f4b42b5}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{4}
+      \field{note}{Focus on {{Creative Inquiry}}}
+      \field{title}{Clemson {{University}}’s {{Creative Inquiry}}, {{Something Very Fishy}}: {{Marine Science Outreach}} in {{South Carolina}} for {{Elementary Schools}}}
+      \field{venue}{{Virtual}}
+      \field{year}{2021}
+      \field{dateera}{ce}
+    \endentry
+    \entry{turnerOutTrashDeveloping2022}{unpublished}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=76ad44970f907c66d099ce54a4e77413}{%
+           family={Turner},
+           familyi={T\bibinitperiod},
+           given={Amanda},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1b9003ec77e4d4c1e7e7cfd35b107c7b}{%
+           family={Tucker},
+           familyi={T\bibinitperiod},
+           given={Ean},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde2e78c844b657269a5c60ad8dbf6fc}{%
+           family={Payton},
+           familyi={P\bibinitperiod},
+           given={Tokea},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=8ed8402ce8facc7f58ad0a2f793ffa81}{%
+           family={Childress},
+           familyi={C\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{fullhash}{d47e7f0f0dab429c71e4c6b6c9a59b51}
+      \strng{bibnamehash}{d47e7f0f0dab429c71e4c6b6c9a59b51}
+      \strng{authorbibnamehash}{d47e7f0f0dab429c71e4c6b6c9a59b51}
+      \strng{authornamehash}{ddd1cedeabe27063a38d6fa510e3bca3}
+      \strng{authorfullhash}{d47e7f0f0dab429c71e4c6b6c9a59b51}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Poster Presentation}
+      \field{month}{2}
+      \field{note}{Clemson {{Biological Science Symposium}}}
+      \field{title}{Out with the Trash: Developing Biomass Estimates for Marine Debris Management}
+      \field{venue}{{Virtual}}
+      \field{year}{2022}
+      \field{dateera}{ce}
+    \endentry
+    \entry{wattsPeerReviewerTraining2023}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=404f0653f26c0c1e06be5deebd214493}{%
+           family={Watts},
+           familyi={W\bibinitperiod},
+           given={Kelsey},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=011502e146601769990c9f95ecc220f2}{%
+           family={Ko},
+           familyi={K\bibinitperiod},
+           given={Evan},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76376fc44c407e7cdf80fd317d7beecd}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e2a0977bbe2b652dc172c0032a280110}{%
+           family={Bates},
+           familyi={B\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e8eccac8645c0eafe7e3ff458a9a3cb}{%
+           family={Lichtenstein},
+           familyi={L\bibinitperiod},
+           given={Gary},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c58c11f52283f63a82b1ef751b96e2b3}{%
+           family={Benson},
+           familyi={B\bibinitperiod},
+           given={Lisa},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ad954b91ed210e02ee5ed3703c534d8f}
+      \strng{fullhash}{be625c450140c1c3ac12a344a1e17341}
+      \strng{bibnamehash}{be625c450140c1c3ac12a344a1e17341}
+      \strng{authorbibnamehash}{be625c450140c1c3ac12a344a1e17341}
+      \strng{authornamehash}{ad954b91ed210e02ee5ed3703c534d8f}
+      \strng{authorfullhash}{be625c450140c1c3ac12a344a1e17341}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{27}
+      \field{issn}{2205-4952, 1325-4340}
+      \field{journaltitle}{Australasian Journal of Engineering Education}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{shortjournal}{Australasian Journal of Engineering Education}
+      \field{title}{Peer Reviewer Training to Build Capacity in Engineering Education Research}
+      \field{urlday}{29}
+      \field{urlmonth}{6}
+      \field{urlyear}{2023}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1\bibrangedash 22}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1080/22054952.2023.2214459
+      \endverb
+      \verb{file}
+      \verb C\:\\Users\\randi\\Zotero\\storage\\ZRLR8ELT\\Watts et al. 2023 - Peer Review Training.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.tandfonline.com/doi/full/10.1080/22054952.2023.2214459
+      \endverb
+      \verb{url}
+      \verb https://www.tandfonline.com/doi/full/10.1080/22054952.2023.2214459
+      \endverb
+    \endentry
+    \entry{yeaman_wip_2024}{article}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=d131b6eedb5c64d43ea1ae8a4dcf8270}{%
+           family={Yeaman},
+           familyi={Y\bibinitperiod},
+           given={Adetoun},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a2dd856776bd6165409aaa2c43b910d7}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Xiaojing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2b24a90b369c0b7c9cb23c93e82395ce}{%
+           family={Lamas-Samanamud},
+           familyi={L\bibinithyphendelim S\bibinitperiod},
+           given={Gisella},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4bc7954e442985f5c8ec59a525beeb27}{%
+           family={Beem},
+           familyi={B\bibinitperiod},
+           given={Heather},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ac926e23d635be741b660d9a56ec067b}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={Janie\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3075dce0e3df8dc67f7d515485b6fbc9}{%
+           family={\textbf{Sims,\bibnamedelimb Randi}},
+           familyi={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Boston, Massachusetts}%
+      }
+      \strng{namehash}{dd7fca699d9a861f1cda2489d417c622}
+      \strng{fullhash}{12d30a88903a55862b93b4879e7d1b33}
+      \strng{bibnamehash}{12d30a88903a55862b93b4879e7d1b33}
+      \strng{authorbibnamehash}{12d30a88903a55862b93b4879e7d1b33}
+      \strng{authornamehash}{dd7fca699d9a861f1cda2489d417c622}
+      \strng{authorfullhash}{12d30a88903a55862b93b4879e7d1b33}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{28}
+      \field{eventtitle}{15th Annual First-Year Engineering Experience Conference ({FYEE})}
+      \field{month}{7}
+      \field{shorttitle}{{WIP}}
+      \field{title}{{WIP}: Survey Validation to Enable Investigating Community Cultural Wealth in Engineering Students’ First Year Experiences ({FYE})}
+      \field{urlday}{6}
+      \field{urlmonth}{2}
+      \field{urlyear}{2025}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{doi}
+      \verb 10.18260/1-2--48642
+      \endverb
+      \verb{file}
+      \verb Full Text PDF:/home/randisims/Zotero/storage/K7TIDDQC/Yeaman et al. - 2024 - WIP Survey Validation to Enable Investigating Community Cultural Wealth in Engineering Students’ Fi.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://peer.asee.org/wip-survey-validation-to-enable-investigating-community-cultural-wealth-in-engineering-students-first-year-experiences-fye
+      \endverb
+      \verb{url}
+      \verb https://peer.asee.org/wip-survey-validation-to-enable-investigating-community-cultural-wealth-in-engineering-students-first-year-experiences-fye
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

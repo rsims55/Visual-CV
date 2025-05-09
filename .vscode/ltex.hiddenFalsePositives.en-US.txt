@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QMay, 2022 – ongoing \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q - PI: Dr. Kristin Frady Clemson University, SC Led implementation of research methods for an NSF-funded (CAREER) study on strengths and experiences of vertical transfer students.\\E$"}

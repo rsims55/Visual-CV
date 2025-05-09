@@ -1,0 +1,21 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[84] biber:340> INFO - === Fri May  9, 2025, 18:58:44
+[100] Biber.pm:418> INFO - Reading 'main.bcf'
+[169] Biber.pm:972> INFO - Found 55 citekeys in bib section 0
+[182] Biber.pm:4383> INFO - Processing section 0
+[197] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography/manuscripts.bib' for section 0
+[203] bibtex.pm:1713> INFO - LaTeX decoding ...
+[241] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography/manuscripts.bib'
+[440] Biber.pm:4574> INFO - Looking for bibtex file 'bibliography/presentations.bib' for section 0
+[442] bibtex.pm:1713> INFO - LaTeX decoding ...
+[474] bibtex.pm:1518> INFO - Found BibTeX data source 'bibliography/presentations.bib'
+[855] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[855] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[855] Biber.pm:4203> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'en-US'
+[855] Biber.pm:4209> INFO - No sort tailoring available for locale 'en-US'
+[906] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[958] bbl.pm:757> INFO - Output to main.bbl
+[958] Biber.pm:130> WARN - Duplicate entry key: 'ransomCreatingSenseBelonging2023' in file 'bibliography/presentations.bib', skipping ...
+[958] Biber.pm:130> WARN - Duplicate entry key: 'simsWhatOurWaters2023' in file 'bibliography/presentations.bib', skipping ...
+[958] Biber.pm:132> INFO - WARNINGS: 2
