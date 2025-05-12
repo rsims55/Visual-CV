@@ -85,6 +85,21 @@
 \titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 \titlespacing\subsubsection{0pt}{12pt plus 4pt minus 2pt}{0pt plus 2pt minus 2pt}
 
+% Set lists to have no space in between
+\usepackage{enumitem}
+\newlist{tightitemize}{itemize}{1}
+\setlist[tightitemize]{
+  nosep,
+  left=0em,
+  label=\textbullet,
+  topsep=0pt,
+  partopsep=0pt,
+  parsep=0pt,
+  itemsep=0pt,
+  before=\vspace{-1\baselineskip},
+  after=\vspace{0.1\baselineskip}
+}
+
 % Get rid of hyphenation
 \usepackage[none]{hyphenat}
 
@@ -130,12 +145,13 @@
 
 % First Page
 \makefrontsidebar
+\cvsection{Research and Evaluation Experience}
 \input{sections/evaluation_experience.tex}
-\input{sections/education.tex}
+\input{sections/research_experience.tex}
 
 \newpage
 \makebacksidebar
-\input{sections/research_experience.tex}
+\input{sections/education.tex}
 \input{sections/memberships.tex}
 \input{sections/mentoring.tex}
 % \input{sections/teaching_experience.tex}

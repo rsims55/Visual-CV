@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.4.8)  9 MAY 2025 18:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.4.8)  12 MAY 2025 13:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -878,7 +878,17 @@ Package biblatex Info: ... and expl3
 Package: blx-case-expl3 2022/02/02 v3.17 expl3 case changing code for biblatex
 )) (/usr/share/texlive/texmf-dist/tex/latex/comment/comment.sty
 \CommentStream=\write5
- Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+ Excluding comment 'comment') (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip104
+\enit@outerparindent=\dimen276
+\enit@toks=\toks41
+\enit@inbox=\box74
+\enit@count@id=\count447
+\enitdp@description=\count448
+)
+\enitdp@tightitemize=\count449
+ (/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language89
 LaTeX Info: Redefining \_ on input line 43.
@@ -890,37 +900,37 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
-LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 140.
  (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count447
-\scratchdimen=\dimen276
-\scratchbox=\box74
-\nofMPsegments=\count448
-\nofMParguments=\count449
-\everyMPshowfont=\toks41
-\MPscratchCnt=\count450
-\MPscratchDim=\dimen277
-\MPnumerator=\count451
-\makeMPintoPDFobject=\count452
-\everyMPtoPDFconversion=\toks42
+\scratchcounter=\count450
+\scratchdimen=\dimen277
+\scratchbox=\box75
+\nofMPsegments=\count451
+\nofMParguments=\count452
+\everyMPshowfont=\toks42
+\MPscratchCnt=\count453
+\MPscratchDim=\dimen278
+\MPnumerator=\count454
+\makeMPintoPDFobject=\count455
+\everyMPtoPDFconversion=\toks43
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
@@ -967,9 +977,9 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count453
-\c@mv@boldtabular=\count454
-Package hyperref Info: Link coloring OFF on input line 125.
+\c@mv@tabular=\count456
+\c@mv@boldtabular=\count457
+Package hyperref Info: Link coloring OFF on input line 140.
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
@@ -977,27 +987,27 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count455
+\c@section@level=\count458
 )
-LaTeX Info: Redefining \ref on input line 125.
-LaTeX Info: Redefining \pageref on input line 125.
-LaTeX Info: Redefining \nameref on input line 125.
+LaTeX Info: Redefining \ref on input line 140.
+LaTeX Info: Redefining \pageref on input line 140.
+LaTeX Info: Redefining \nameref on input line 140.
  (./main.out) (./main.out)
 \@outlinefile=\write6
 \openout6 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 125.
-Package microtype Info: Applying patch `item' on input line 125.
-Package microtype Info: Applying patch `toc' on input line 125.
-Package microtype Info: Applying patch `eqnum' on input line 125.
-Package microtype Info: Applying patch `footnote' on input line 125.
+LaTeX Info: Redefining \microtypecontext on input line 140.
+Package microtype Info: Applying patch `item' on input line 140.
+Package microtype Info: Applying patch `toc' on input line 140.
+Package microtype Info: Applying patch `eqnum' on input line 140.
+Package microtype Info: Applying patch `footnote' on input line 140.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 125.
+LaTeX Info: Redefining \showhyphens on input line 140.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1035,49 +1045,49 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 125.
-Package biblatex Info: Reference segment=0 on input line 125.
+Package biblatex Info: Reference section=0 on input line 140.
+Package biblatex Info: Reference segment=0 on input line 140.
 <pics/profile.jpg, id=106, 3508.10625pt x 2818.53pt>
 File: pics/profile.jpg Graphic file (type jpg)
 <use pics/profile.jpg>
-Package pdftex.def Info: pics/profile.jpg  used on input line 132.
+Package pdftex.def Info: pics/profile.jpg  used on input line 147.
 (pdftex.def)             Requested size: 179.24509pt x 143.98827pt.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 132.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 132.
+(Font)              scaled to size 24.88pt on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 132.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 132.
+(Font)              scaled to size 17.28pt on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 132.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 132.
+(Font)              scaled to size 14.4pt on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 132.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 132.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 132.
+LaTeX Font Info:    Trying to load font information for U+fontawesomeone on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 132.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 147.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 132.
-LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 132.
+(Font)              scaled to size 10.0pt on input line 147.
+LaTeX Font Info:    Trying to load font information for U+fontawesometwo on input line 147.
  (/usr/share/texlive/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 ) (./sections/bio.tex
@@ -1091,23 +1101,33 @@ Underfull \hbox (badness 1062) in paragraph at lines 3--3
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 3--3
-\T1/ClearSans-TLF/regular/n/10 (+20) at Qual-ity Eval-u-a-tion De-signs. Her
+Underfull \hbox (badness 2393) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) at Qual-ity Eval-u-a-tion De-signs. She
  []
 
 
-Underfull \hbox (badness 6332) in paragraph at lines 3--3
-\T1/ClearSans-TLF/regular/n/10 (+20) un-der-grad-u-ate re-search ex-pe-ri-ences.
+Underfull \hbox (badness 4634) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) has over 8 years of ex-pe-ri-ence in
  []
 
 
-Underfull \hbox (badness 7851) in paragraph at lines 3--3
-\T1/ClearSans-TLF/regular/n/10 (+20) Randi spe-cial-izes in de-sign-ing and
+Underfull \hbox (badness 2418) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) pro-gram and in-sti-tu-tional eval-u-a-tion,
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 3--3
-\T1/ClearSans-TLF/regular/n/10 (+20) plans. She spe-cial-izes in ad-vanced
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) quan-ti-ta-tive method-olo-gies. Her
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) quan-ti-ta-tive knowl-edge in-cludes
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3--3
+\T1/ClearSans-TLF/regular/n/10 (+20) ex-pe-ri-ence through data-informed
  []
 
 ) (./sections/skills.tex
@@ -1115,63 +1135,57 @@ LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <7> not available
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 7.0pt on input line 3.
-) (./sections/evaluation_experience.tex
+)
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <17.28> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 1.
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 148.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 1.
+(Font)              scaled to size 17.28pt on input line 148.
+ (./sections/evaluation_experience.tex
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <12> not available
 (Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <8> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 8.
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 12.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 8.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <8> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 8.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 8.
-
-Underfull \hbox (badness 1609) in paragraph at lines 16--16
-\T1/ClearSans-TLF/regular/n/10 (+20) Developed and led the eval-u-a-tion plan for the ABC for EER.
- []
-
+(Font)              scaled to size 8.0pt on input line 12.
+LaTeX Font Info:    Trying to load font information for TS1+ClearSans-TLF on input line 12.
+ (/usr/share/texlive/texmf-dist/tex/latex/clearsans/TS1ClearSans-TLF.fd
+File: TS1ClearSans-TLF.fd 2019/10/16 (autoinst) Font definitions for TS1/ClearSans-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/m/n' in size <10> not available
+(Font)              Font shape `TS1/ClearSans-TLF/regular/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `TS1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `ClearSans-TLF' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <10> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 20.
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 31.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 20.
+(Font)              scaled to size 10.0pt on input line 31.
 
-Underfull \hbox (badness 2913) in paragraph at lines 28--28
-\T1/ClearSans-TLF/regular/n/10 (+20) Led qual-i-ta-tive data col-lec-tion and anal-y-sis, and con-ducted
+Underfull \hbox (badness 1038) in paragraph at lines 42--42
+[]\T1/ClearSans-TLF/regular/n/10 (+20) Led qual-i-ta-tive data col-lec-tion and anal-y-sis, and con-ducted
  []
 
-
-Underfull \hbox (badness 1087) in paragraph at lines 28--28
-\T1/ClearSans-TLF/regular/n/10 (+20) quan-ti-ta-tive data anal-y-sis for eval-u-a-tion of the PSA Pro-gram.
- []
-
-
-Underfull \hbox (badness 1603) in paragraph at lines 40--40
-\T1/ClearSans-TLF/regular/n/10 (+20) Led quan-ti-ta-tive and qual-i-ta-tive anal-y-sis and sup-ported data
- []
-
-) (./sections/education.tex
-Underfull \hbox (badness 10000) in paragraph at lines 24--1
+) (./sections/research_experience.tex
+Underfull \hbox (badness 10000) in paragraph at lines 35--3
 
  []
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <9> not available
-(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <8> not available
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 13.
 LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
-(Font)              scaled to size 9.0pt on input line 32.
+(Font)              scaled to size 8.0pt on input line 13.
 
-Underfull \hbox (badness 2846) in paragraph at lines 32--32
-\T1/ClearSans-TLF/regular/n/10 (+20) Training in ad-vanced sta-tis-ti-cal tech-niques con-tex-tu-al-ized to
+Underfull \hbox (badness 3179) in paragraph at lines 46--46
+[]\T1/ClearSans-TLF/regular/n/10 (+20) Earned cer-ti-fi-ca-tions in ASTM test-ing, ISO train-ing, X-ray
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 41--135
+Underfull \hbox (badness 10000) in paragraph at lines 37--151
 
  []
 
@@ -1179,17 +1193,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--135
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./pics/profile.jpg>] (./sections/profiles.tex
-<pics/rg.png, id=123, 75.51477pt x 75.51477pt>
+<pics/rg.png, id=126, 75.51477pt x 75.51477pt>
 File: pics/rg.png Graphic file (type png)
 <use pics/rg.png>
 Package pdftex.def Info: pics/rg.png  used on input line 5.
 (pdftex.def)             Requested size: 35.84846pt x 35.84914pt.
-<github.png, id=125, 513.92pt x 513.92pt>
+<github.png, id=128, 513.92pt x 513.92pt>
 File: github.png Graphic file (type png)
 <use github.png>
 Package pdftex.def Info: github.png  used on input line 5.
 (pdftex.def)             Requested size: 35.84846pt x 35.84476pt.
-<in.png, id=127, 345.81532pt x 345.81532pt>
+<in.png, id=130, 345.81532pt x 345.81532pt>
 File: in.png Graphic file (type png)
 <use in.png>
 Package pdftex.def Info: in.png  used on input line 6.
@@ -1199,33 +1213,18 @@ Overfull \hbox (7.13373pt too wide) in paragraph at lines 15--16
  [][] 
  []
 
-) (./sections/references.tex) (./sections/research_experience.tex
-Underfull \hbox (badness 2165) in paragraph at lines 13--13
-\T1/ClearSans-TLF/regular/n/10 (+20) Led im-ple-men-ta-tion of re-search meth-ods for an NSF-funded
- []
+) (./sections/references.tex) (./sections/education.tex
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/b/n' in size <9> not available
+(Font)              Font shape `T1/ClearSans-TLF/bold/n' tried instead on input line 32.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/bold/n' will be
+(Font)              scaled to size 9.0pt on input line 32.
 
-
-Underfull \hbox (badness 5203) in paragraph at lines 13--13
-\T1/ClearSans-TLF/regular/n/10 (+20) stu-dents. Sup-ported PI in data col-lec-tion, anal-y-sis, and
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 17--17
-\T1/ClearSans-TLF/regular/n/10 (+20) (EA-GER) study on men-tored peer re-view train-ing for jour-nal
- []
-
-
-Underfull \hbox (badness 1354) in paragraph at lines 29--29
-\T1/ClearSans-TLF/regular/n/10 (+20) stu-dents. Con-ducted an-a-lyt-i-cal test-ing, man-aged in-stru-ment
- []
-
-
-Underfull \hbox (badness 1931) in paragraph at lines 29--29
-\T1/ClearSans-TLF/regular/n/10 (+20) cal-i-bra-tion, and en-sured com-pli-ance with in-dus-try stan-dards.
+Underfull \hbox (badness 2846) in paragraph at lines 32--32
+\T1/ClearSans-TLF/regular/n/10 (+20) Training in ad-vanced sta-tis-ti-cal tech-niques con-tex-tu-al-ized to
  []
 
 ) (./sections/memberships.tex
-Underfull \hbox (badness 10000) in paragraph at lines 25--9
+Underfull \hbox (badness 10000) in paragraph at lines 41--9
 
  []
 
@@ -1234,79 +1233,4 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--1
 
  []
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <9> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 12.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 12.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <9> not available
-(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 12.
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 12.
-)
-Underfull \hbox (badness 10000) in paragraph at lines 60--145
-
- []
-
-[2 <./pics/rg.png> <./github.png> <./in.png>]
-*geometry* verbose mode - [ newgeometry ] result:
-* driver: pdftex
-* paper: a4paper
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 512.14963pt, 28.45274pt)
-* v-part:(T,H,B)=(28.45274pt, 813.74866pt, 2.84544pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=512.14963pt
-* \textheight=813.74866pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-43.81725pt
-* \headheight=0.0pt
-* \headsep=0.0pt
-* \topskip=10.0pt
-* \footskip=0.0pt
-* \marginparwidth=0.0pt
-* \marginparsep=0.0pt
-* \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
- (./sections/publications/publications.tex) [3
-
-] (./sections/publications/presentations.tex
-Overfull \hbox (3.15536pt too wide) in paragraph at lines 10--11
-\T1/ClearSans-TLF/regular/it/9 (-20) learn-ing dur-ing a pan-demic \T1/ClearSans-TLF/regular/n/9 (-20) [As-so-ci-a-tion for Col-lege Un-der-grad-u-ate Bi-ol-ogy Ed-u-ca-tors An-nual Con-fer-ence] [Oral Pre-sen-ta-tion].
- []
-
-[4]) [5] (./main.aux)
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 908F0DC84DAEC088E8C7EF395EC9E0CC;2986.
-Package logreq Info: Writing requests to 'main.run.xml'.
-\openout1 = `main.run.xml'.
-
- ) 
-Here is how much of TeX's memory you used:
- 38059 strings out of 478287
- 738299 string characters out of 5849290
- 1582666 words of memory out of 5000000
- 55105 multiletter control sequences out of 15000+600000
- 586005 words of font info for 293 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 130i,15n,132p,2557b,5163s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}</usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
-Output written on main.pdf (5 pages, 1703906 bytes).
-PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 229 compressed objects within 3 object streams
- 79 named destinations out of 1000 (max. 500000)
- 67869 words of extra memory for PDF output out of 74296 (max. 10000000)
-
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <9> not av

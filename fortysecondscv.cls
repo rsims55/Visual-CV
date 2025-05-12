@@ -511,8 +511,8 @@
 % cv list environment --> table, left aligned, width=textwidth
 % tabular starred version adds space to make table as wide as \textwidth here
 \newenvironment{cvtable}%
-	{\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}}%
-	{\end{tabular*}}
+  {\begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}}%
+  {\end{tabular*}\vspace{-0.5ex}}  % Adjust this to remove space or control gap
 
 % | <keyword>      <one-line description>            |
 % use parbox if text needs to use multiple lines
@@ -531,7 +531,7 @@
 			\parbox[t]{\linewidth-\widthof{#3}-1em}{\raggedright #2}%
   		\hfill {\footnotesize#3}%
 		\else%
-			\textbf{#2} \hfill {\footnotesize#3} \\ #4\vspace{\parsep}%
+			\textbf{#2} \hfill {\footnotesize#3} \\ #4\vspace{0.2ex}%
 		\fi%
 	}\\
 }
