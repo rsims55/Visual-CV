@@ -1233,4 +1233,79 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--1
 
  []
 
-LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <9> not av
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/n' in size <9> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/n' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 12.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/m/it' in size <9> not available
+(Font)              Font shape `T1/ClearSans-TLF/regular/it' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/ClearSans-TLF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 12.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 60--161
+
+ []
+
+[2 <./pics/rg.png> <./github.png> <./in.png>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 512.14963pt, 28.45274pt)
+* v-part:(T,H,B)=(28.45274pt, 813.74866pt, 2.84544pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=512.14963pt
+* \textheight=813.74866pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-43.81725pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.0pt
+* \footskip=0.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=0.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (./sections/publications/publications.tex) [3
+
+] (./sections/publications/presentations.tex
+Overfull \hbox (3.15536pt too wide) in paragraph at lines 10--11
+\T1/ClearSans-TLF/regular/it/9 (-20) learn-ing dur-ing a pan-demic \T1/ClearSans-TLF/regular/n/9 (-20) [As-so-ci-a-tion for Col-lege Un-der-grad-u-ate Bi-ol-ogy Ed-u-ca-tors An-nual Con-fer-ence] [Oral Pre-sen-ta-tion].
+ []
+
+[4]) [5] (./main.aux)
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 7CE4D0B2ED34D54C244C77DD59222903;2986.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 38458 strings out of 478287
+ 745778 string characters out of 5849290
+ 1601612 words of memory out of 5000000
+ 55484 multiletter control sequences out of 15000+600000
+ 587006 words of font info for 300 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 130i,15n,132p,2557b,5163s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_zxbkm4.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/clearsans/clr_nrghxx.enc}</usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Bold.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/intel/clearsans/ClearSans-Regular.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb>
+Output written on main.pdf (5 pages, 1703677 bytes).
+PDF statistics:
+ 277 PDF objects out of 1000 (max. 8388607)
+ 232 compressed objects within 3 object streams
+ 79 named destinations out of 1000 (max. 500000)
+ 71965 words of extra memory for PDF output out of 74296 (max. 10000000)
+
